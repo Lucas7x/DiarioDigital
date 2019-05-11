@@ -24,21 +24,21 @@
   <meta name="description" content="Creative - Bootstrap 3 Responsive Admin Template">
   <meta name="author" content="GeeksLabs">
   <meta name="keyword" content="Creative, Dashboard, Admin, Template, Theme, Bootstrap, Responsive, Retina, Minimal">
-  <link rel="shortcut icon" href="img/favicon.png">
+  <link rel="shortcut icon" href="../img/favicon.png">
 
   <title>Cadastrar Funcionário | Diário Digital</title>
 
   <!-- Bootstrap CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="../css/bootstrap.min.css" rel="stylesheet">
   <!-- bootstrap theme -->
-  <link href="css/bootstrap-theme.css" rel="stylesheet">
+  <link href="../css/bootstrap-theme.css" rel="stylesheet">
   <!--external css-->
   <!-- font icon -->
-  <link href="css/elegant-icons-style.css" rel="stylesheet" />
-  <link href="css/font-awesome.min.css" rel="stylesheet" />
+  <link href="../css/elegant-icons-style.css" rel="stylesheet" />
+  <link href="../css/font-awesome.min.css" rel="stylesheet" />
   <!-- Custom styles -->;
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/style-responsive.css" rel="stylesheet" />
+  <link href="../css/style.css" rel="stylesheet">
+  <link href="../css/style-responsive.css" rel="stylesheet" />
 
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 -->
   <!--[if lt IE 9]>
@@ -88,7 +88,7 @@
           <li class="dropdown">
             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                             <span class="profile-ava">
-                                <img alt="" src="img/avatar1_small.jpg">
+                                <img alt="" src="../img/avatar1_small.jpg">
                             </span>
                             <span class="username">
                               <?php
@@ -753,34 +753,34 @@
   <!-- container section end -->
 
   <!-- javascripts -->
-  <script src="js/jquery.js"></script>
-  <script src="js/bootstrap.min.js"></script>
+  <script src="../js/jquery.js"></script>
+  <script src="../js/bootstrap.min.js"></script>
   <!-- nice scroll -->
-  <script src="js/jquery.scrollTo.min.js"></script>
-  <script src="js/jquery.nicescroll.js" type="text/javascript"></script>
+  <script src="../js/jquery.scrollTo.min.js"></script>
+  <script src="../js/jquery.nicescroll.js" type="text/javascript"></script>
   <!-- gritter -->
 
   <!-- custom gritter script for this page only-->
-  <script src="js/gritter.js" type="text/javascript"></script>
+  <script src="../js/gritter.js" type="text/javascript"></script>
   <!--custome script for all page-->
-  <script src="js/scripts.js"></script>
+  <script src="../js/scripts.js"></script>
 
   <!-- bootstrap-wysiwyg -->
-  <script src="js/jquery.hotkeys.js"></script>
-  <script src="js/bootstrap-wysiwyg.js"></script>
-  <script src="js/bootstrap-wysiwyg-custom.js"></script>
-  <script src="js/moment.js"></script>
-  <script src="js/bootstrap-colorpicker.js"></script>
-  <script src="js/daterangepicker.js"></script>  
-  <script src="js/bootstrap-datepicker.js"></script>
-  <script src="js/bootstrap-datepicker.pt-BR.min"></script>
+  <script src="../js/jquery.hotkeys.js"></script>
+  <script src="../js/bootstrap-wysiwyg.js"></script>
+  <script src="../js/bootstrap-wysiwyg-custom.js"></script>
+  <script src="../js/moment.js"></script>
+  <script src="../js/bootstrap-colorpicker.js"></script>
+  <script src="../js/daterangepicker.js"></script>  
+  <script src="../js/bootstrap-datepicker.js"></script>
+  <script src="../js/bootstrap-datepicker.pt-BR.min"></script>
 
   <!-- ck editor -->
-  <script type="text/javascript" src="assets/ckeditor/ckeditor.js"></script>
+  <script type="text/javascript" src="../assets/ckeditor/ckeditor.js"></script>
   <!-- custom form component script for this page-->
-  <script src="js/form-component.js"></script>
+  <script src="../js/form-component.js"></script>
   <!-- custome script for all page -->
-  <script src="js/scripts.js"></script>
+  <script src="../js/scripts.js"></script>
 
   <!-- Script validação de CPF-->
   <script type="text/javascript">
