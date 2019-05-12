@@ -30,23 +30,23 @@
 
 		switch ($_SESSION['cargo']) {
 			case 'Diretor':
-				header('Location: indexDiretor.php');
+				header('Location: ./view/indexDiretor.php');
 				break;
 
 			case 'Coordenador':
-				header('Location: indexCoordenador.php');
+				header('Location: ./view/indexCoordenador.php');
 				break;
 
 			case 'Secretário':
-				header('Location: indexSecretario.php');
+				header('Location: ./view/indexSecretario.php');
 				break;
 
 			case 'Professor':
-				header('Location: indexProfessor.php');
+				header('Location: ./view/indexProfessor.php');
 				break;
 
 			default:
-				header('Location: ../404.php');
+				header('Location: .../view//404.php');
 				break;
 		}
 		
